@@ -1,10 +1,10 @@
 # DATA ANALYST
 
-### ABOUT ME
+### ABOUT ME ###
 "Hello, I'm Karim Ali. I am a seasoned data analyst with a strong track record of leveraging data-driven insights to optimize business strategies and drive tangible results. My expertise includes data acquisition, analysis, visualization, and the application of statistical modelling and machine learning. With a background in strategic management and a passion for uncovering valuable insights from complex datasets, I am dedicated to helping organizations make informed decisions and achieve their goals. I'm excited to bring my skills and experience to your team to contribute to data-driven success."
 
-### Work Experience
--Chief Business Development Officer, Xchange Finance UK, from 01/2021-06/2022
+### Work Experience ###
+#### Chief Business Development Officer, Xchange Finance UK, from 01/2021-06/2022 ####
 During my tenure as Chief Business Development Officer at Xchange Finance UK from January 2021 to June 2022, my proficiency in data analytics, accompanied by various tools and programming languages, played a pivotal role in driving strategic decision-making and uncovering valuable insights for the company in the fintech aggregator and payment industry. Here are the key responsibilities and achievements, inclusive of the mentioned keywords:
 Data-Driven Strategy:
 •	Utilized Microsoft Excel and MySQL to initiate and implement data-driven strategies, enabling precise targeting and optimization of operational processes.
@@ -30,7 +30,7 @@ Technical Documentation:
 My role as Chief Business Development Officer saw the application of a broad spectrum of data analytics tools and programming languages to drive data-driven decision-making, resulting in substantial growth and strategic successes for Xchange Finance UK within the fintech aggregator and payment industry.
 
 
--Managing Director Green Trading Import-Export Burkina Faso from 02/2016-01/2020 
+#### Managing Director Green Trading Import-Export Burkina Faso from 02/2016-01/2020####
 As the Managing Director of Green Trading Import-Export in Burkina Faso, I held a position of significant responsibility and relied heavily on Microsoft Excel for a wide range of functions. My role encompassed a diverse set of tasks, and my proficiency with Excel was instrumental in achieving key objectives:
 Financial Analysis and Planning:
 •	Utilized Microsoft Excel to perform in-depth financial analysis, including revenue forecasting, expense tracking, and profit margin optimization.
@@ -56,13 +56,13 @@ Project Management:
 My extensive experience as the Managing Director at Green Trading Import-Export in Burkina Faso, spanning from February 2016 to January 2021, demonstrates my ability to use Microsoft Excel as a versatile and powerful tool for financial analysis, data management, and decision-making across diverse aspects of the import-export business. This proficiency contributed significantly to the company's growth and operational efficiency.
 
 
-### Education 
+### Education ###
 Executive MBA, University of Northampton, Northampton, England, 2021-2024
 Professional Master Degree in Strategic Management and Leadership, ATHE, Norwich, England, 2018-2020
 Graduate Diploma in Business Management and Administration, Wintech Professional Institute, Accra, Ghana, 2006-2009
 A Level (Baccalauréat), Lycée Privé Bombey, Niamey, Niger, 1990-2005
 
-### CERTIFICATIONS
+### CERTIFICATIONS ###
 IBM Data Analyst, Coursera and IBM, 07-11-2023
 Become a Professional Data Analyst, LinkedIn Learning, 12-10-2023
 Professional Career Essentials in Data Analysis, Microsoft and LinkedIn, 07-10-2023
@@ -80,9 +80,10 @@ Blockchain and Cryptocurrency Explained, Issued in February 2021
 The Future of Payment Technologies,Coursera, Issued in February 2021
 Excel Skills for Business Specialization (Advanced),Coursera, Issued in May 2020
 
-### Projects 
-IBM Capstone Project...
+### Projects ###
+IBM Capstone Project(/assets/img/dashboardq.jpg).
+[Repository](https://wwww.github.com/kmazou/ibm-capstone)
 
-### Contact
+### Contact ###
 email: mazouali2016@gmail.com
 Telegram: @kmazou
