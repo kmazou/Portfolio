@@ -1,89 +1,84 @@
 # DATA ANALYST
 
-### ABOUT ME ###
-"Hello, I'm Karim Ali. I am a seasoned data analyst with a strong track record of leveraging data-driven insights to optimize business strategies and drive tangible results. My expertise includes data acquisition, analysis, visualization, and the application of statistical modelling and machine learning. With a background in strategic management and a passion for uncovering valuable insights from complex datasets, I am dedicated to helping organizations make informed decisions and achieve their goals. I'm excited to bring my skills and experience to your team to contribute to data-driven success."
+## ABOUT ME 
+Experienced leader with 10+ years, boosting revenue by 20% and improving operational efficiency by 15%. Transitioning to data analysis, driven by passion, leverage data for informed decisions and contributing quantifiable value.
 
-### Work Experience ###
-#### Chief Business Development Officer, Xchange Finance UK, from 01/2021-06/2022 ####
-During my tenure as Chief Business Development Officer at Xchange Finance UK from January 2021 to June 2022, my proficiency in data analytics, accompanied by various tools and programming languages, played a pivotal role in driving strategic decision-making and uncovering valuable insights for the company in the fintech aggregator and payment industry. Here are the key responsibilities and achievements, inclusive of the mentioned keywords:
-Data-Driven Strategy:
-•	Utilized Microsoft Excel and MySQL to initiate and implement data-driven strategies, enabling precise targeting and optimization of operational processes.
-•	Leveraged Tableau and PowerBI for comprehensive data visualization, creating actionable insights that guided effective business development efforts.
-Data Acquisition and Integration:
-•	Employed Tableau Prep and PowerQuery to streamline and optimize the acquisition and integration of diverse financial data sources.
-•	Integrated external data using MySQL, enhancing business intelligence and ensuring a comprehensive approach to decision-making.
-Data Cleaning and Validation:
-•	Utilized Python, Pandas, and NumPy for robust data cleaning and validation, ensuring accuracy and reliability in the analysis.
-•	Applied Tableau Prep for data preparation, resulting in a 20% reduction in data errors and ensuring high-quality data for analysis.
-Data Visualization and Reporting:
-•	Utilized Tableau, PowerBI, and IBM Cognos to create interactive dashboards and reports that provided clear and actionable insights for stakeholders.
-•	Employed Matplotlib and Seaborn for advanced visualization in reports, facilitating a better understanding of complex data patterns.
-Identifying Market Patterns:
-•	Employed statistical analysis and exploratory data analysis (EDA) techniques to uncover market trends and customer behavior.
-•	Analyzed data with Python libraries such as Pandas and Numpy to identify patterns in customer payment preferences, enabling tailored product offerings.
-Cross-Functional Collaboration:
-•	Collaborated across teams, utilizing Microsoft Excel and PowerQuery to gather and integrate data for product development and marketing strategies.
-•	Employed IBM Cognos for streamlined communication, resulting in a reduction of development time for new fintech products.
-Technical Documentation:
-•	Proficient in writing and editing technical materials using Microsoft Excel and Python, translating complex data insights into easily digestible content.
-•	Generated comprehensive technical documentation using Excel and Python libraries to simplify data-related processes for diverse audiences.
-My role as Chief Business Development Officer saw the application of a broad spectrum of data analytics tools and programming languages to drive data-driven decision-making, resulting in substantial growth and strategic successes for Xchange Finance UK within the fintech aggregator and payment industry.
+## Projects 
 
-
-#### Managing Director Green Trading Import-Export Burkina Faso from 02/2016-01/2020####
-As the Managing Director of Green Trading Import-Export in Burkina Faso, I held a position of significant responsibility and relied heavily on Microsoft Excel for a wide range of functions. My role encompassed a diverse set of tasks, and my proficiency with Excel was instrumental in achieving key objectives:
-Financial Analysis and Planning:
-•	Utilized Microsoft Excel to perform in-depth financial analysis, including revenue forecasting, expense tracking, and profit margin optimization.
-•	Developed annual budgets and financial plans, resulting in a 10% increase in revenue over a three-year period.
-Data Management and Reporting:
-•	Managed a wide array of data related to import and export operations, supplier relationships, and sales data, all within Excel spreadsheets.
-•	Created custom Excel templates for reporting, simplifying data visualization and decision-making for the executive team.
-Inventory Management:
-•	Maintained detailed inventory records using Microsoft Excel, ensuring accurate tracking of stock levels, turnover rates, and reorder points.
-•	Reduced excess inventory by 15% and improved inventory turnover by 20% through data-driven analysis and optimization.
-Supply Chain Optimization:
-•	Utilized Excel to analyze supply chain data, identifying bottlenecks and inefficiencies in the import-export process.
-•	Implemented process improvements that led to a 25% reduction in lead times and a 10% cost savings.
-Market Research and Analysis:
-•	Conducted market research and competitor analysis by collecting and organizing data in Excel.
-•	Identified market trends and opportunities, contributing to the development of new product lines and market expansion strategies.
-Cross-Functional Communication:
-•	Collaborated with various departments and teams, using Excel as a common tool for data sharing and communication.
-•	Streamlined communication channels and improved cross-functional cooperation, resulting in better coordination and faster decision-making.
-Project Management:
-•	Managed various projects related to the import and export of goods, tracking project timelines, budgets, and key performance indicators in Excel.
-•	Completed projects on time and within budget, exceeding client expectations and improving the company's reputation.
-My extensive experience as the Managing Director at Green Trading Import-Export in Burkina Faso, spanning from February 2016 to January 2021, demonstrates my ability to use Microsoft Excel as a versatile and powerful tool for financial analysis, data management, and decision-making across diverse aspects of the import-export business. This proficiency contributed significantly to the company's growth and operational efficiency.
-
-
-### Education ###
-Executive MBA, University of Northampton, Northampton, England, 2021-2024
-Professional Master Degree in Strategic Management and Leadership, ATHE, Norwich, England, 2018-2020
-Graduate Diploma in Business Management and Administration, Wintech Professional Institute, Accra, Ghana, 2006-2009
-A Level (Baccalauréat), Lycée Privé Bombey, Niamey, Niger, 1990-2005
-
-### CERTIFICATIONS ###
-IBM Data Analyst, Coursera and IBM, 07-11-2023
-Become a Professional Data Analyst, LinkedIn Learning, 12-10-2023
-Professional Career Essentials in Data Analysis, Microsoft and LinkedIn, 07-10-2023
-Designing and Deploying Technology for IIPS, Digital Frontiers, Issued on Dec 12, 2022
-Become a Project Manager,Linked Learning Issued on Oct 16, 2022
-Business Intelligence Consulting, Linkedin Learning Issued on Sep 6, 2022
-Minitab 2016, Linkedin Learning Issued on Sep 5, 2022
-Lean Six Sigma and Six Sigma Black Belt,Linkedin Learning Issued on Aug 31, 2022
-JSON Essential Training, LinkedIn Learning, Issued on Aug 14, 2022
-Business Analysis,Linkedin Learning, Issued on Aug 16, 2022
-HTML Essential Training, LinkedIn Learning,Linkedin Learning Issued on Aug 14, 2022
-Programming APIs and Web Services, LinkedIn Learning, Issued on Aug 14, 2022
-Project Management Skills for Leaders,Linkedin Learning, Issued on Aug 13, 2022
-Blockchain and Cryptocurrency Explained, Issued in February 2021
-The Future of Payment Technologies,Coursera, Issued in February 2021
-Excel Skills for Business Specialization (Advanced),Coursera, Issued in May 2020
-
-### Projects ###
-IBM Capstone Project(/assets/img/dashboardq.jpg).
+### IBM Capstone Project(/assets/img/dashboardq.jpg)
 [Repository](https://wwww.github.com/kmazou/ibm-capstone)
+1. Collecting Data Using APIs and Collecting Data Using Wedscrapping
+2. Data Wrangling
+3.Exploratory Data Analysis
+4.Data Visualization
+5.Dashboards
+6.Findings Presentation
+*Key Terms:
+Exploring Data, Duplicates, Missing Values, Normalizing data, distribution, outliers, Correlation*
 
-### Contact ###
-email: mazouali2016@gmail.com
-Telegram: @kmazou
+### Analyzing Wildfire Activities in Australia (Data Visualization with Python)
+-Part 1 Analyzing Wildfire Activities in Australia
+-Part2 Creating Dashboards
+*Key Terms: Matplotlib, Seaborn, Foluim, Plotly, Dash*
+
+### House Sales in King County, USA (Data Analysis with Python)
+Data Analytics for House Pricing Data Set
+
+*Key Terms:
+Understading the data, Python Packages for Data Science, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Binning, Exploratory Data Analysis, Descriptive Statistics, Chi-Square, Model Development, Pipelines*
+
+### Analysis of Real Wolrd datasets for the city of Chicago (Databases and SQL For Data Science with Python) ###
+Practice Querying Real World Datasets
+*Key Terms:
+SQL, DDL, DML, TRUNCATE, SQL Scripts, String, BD-API, SQL Magic, Tables, Columns, Stored Procedure, ACID Transactions, Rolling Back, Join operations*
+
+### Analyzing Stock Performance and Building Dashboards (Python Project for Data Science)
+-Step 1 
+Web Scraping
+-Step 2 
+Project Overview
+-Step3 
+Extracting Stock Data Using Python
+-Step4
+Reading: yfinance Library
+
+*Key Terms: Python, Web Scraping, HTML scrapping, BeautifulSoup, IBM Cognos, IBM Waston,Jupyter Notebook*
+
+### Financial Analyst(New York Jobs CEO COUNCIL, JOB sim on theforage.com)
+-Step1 
+Extract information from BigTechCompany's Financial reports using MS Excel
+Developped  a MS PowerPoint presentation of the analysis.
+-Step 2
+Developped a presentation outline that concisely expresses my opinions and analysis.
+-Step3 
+Recorded a video of the presentation
+*Key Terms: 
+Financial statements,Revenue, Operating income (EBITDA), Net income, Free cash flow, EBITDA margin, Leverage ratios.*
+
+### Corporate Analyst Development Program (JP MORGAN CHASE & CO,JOB sim on theforage.com)
+-Step 1
+Data Analysis and Visualization in Excel :Sorted Data, Filtered Data, Vlookup Function, Created Charts
+-Step 2 
+Data Visualization Dashboard (Tableau)
+-Step 3 
+Process Mapping and Improvement
+-Step 4 
+Storytelling with MS PowerPoint
+-Step 5
+Video Presentation
+*Key terms:
+Borrowers,loan-to-value ratios, minority homeowners,annual income, appraised home value*
+
+### Data Analytics and Visualization (Accenture JOB sim on theforage.com)
+-Step1 
+Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
+-Step2
+Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
+-Step3
+Prepared a PowerPoint deck and video presentation script to communicate key insights for the client and internal stakeholders.
+*Key Terms:
+SQL, CSV, MS Excel, PowerQuery, Communication, Data Analysis, Data Modeling, Data understanding, Data Visualization, Presentations, Project Planning, Public Speaking, Storytelling, Strategy, Teamwork*
+
+#### Contact 
+**email: mazouali2016@gmail.com
+  Telegram: @kmazou**
