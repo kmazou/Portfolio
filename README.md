@@ -6,7 +6,7 @@ Experienced leader with 10+ years, boosting revenue by 20% and improving operati
 ## Projects 
 
 ### [IBM Capstone Project](https://wwww.github.com/kmazou/ibm-capstone)
-![Future Platform Trends](/img/mostdesiredPlatnextyear.jpg " Future Platform Trends ")
+![Future Platforms Trend](/img/mostdesiredPlatnextyear.jpg " Future Platforms Trend ")
 1. Collecting Data Using APIs and Collecting Data Using Wedscrapping
 2. Data Wrangling
 3. Exploratory Data Analysis
