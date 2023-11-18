@@ -6,6 +6,7 @@ Experienced leader with 10+ years, boosting revenue by 20% and improving operati
 ## Projects 
 
 ### [IBM Capstone Project](https://wwww.github.com/kmazou/ibm-capstone)
+![Future Platform Trends](/img/mostdesiredPlatnextyear.jpg " Future Platform Trends ")
 1. Collecting Data Using APIs and Collecting Data Using Wedscrapping
 2. Data Wrangling
 3. Exploratory Data Analysis
@@ -53,7 +54,7 @@ Developped  a MS PowerPoint presentation of the analysis.
 Financial statements,Revenue, Operating income (EBITDA), Net income, Free cash flow, EBITDA margin, Leverage ratios.*
 
 ### [Corporate Analyst Development Program (JP MORGAN CHASE & CO,JOB sim on theforage.com)]()
-![Future Platform Trends](/img/mostdesiredPlatnextyear.jpg " Future Platform Trends ")
+
 
 1. Data Analysis and Visualization in Excel :Sorted Data, Filtered Data, Vlookup Function, Created Charts 
 2. Data Visualization Dashboard (Tableau)
