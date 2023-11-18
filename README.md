@@ -5,7 +5,7 @@ Experienced leader with 10+ years, boosting revenue by 20% and improving operati
 
 ## Projects 
 
-### [IBM Capstone Project]([https://wwww.github.com/kmazou/ibm-capstone](https://github.com/kmazou/capstone/tree/main))
+### [IBM Capstone Project](https://github.com/kmazou/capstone/tree/main)
 ![Future Platforms Trend](assets/img/mostdesiredPlatnextyear.jpg)
 1. Collecting Data Using APIs and Collecting Data Using Wedscrapping
 2. Data Wrangling
