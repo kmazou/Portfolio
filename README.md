@@ -5,7 +5,7 @@ Experienced leader with 10+ years, boosting revenue by 20% and improving operati
 
 ## Projects 
 
-### [IBM Capstone Project](https://wwww.github.com/kmazou/ibm-capstone)
+### [IBM Capstone Project]([https://wwww.github.com/kmazou/ibm-capstone](https://github.com/kmazou/capstone/tree/main))
 ![Future Platforms Trend](assets/img/mostdesiredPlatnextyear.jpg)
 1. Collecting Data Using APIs and Collecting Data Using Wedscrapping
 2. Data Wrangling
@@ -17,25 +17,25 @@ Experienced leader with 10+ years, boosting revenue by 20% and improving operati
 *Key Terms:
 Exploring Data, Duplicates, Missing Values, Normalizing data, distribution, outliers, Correlation*
 
-### [Analyzing Wildfire Activities in Australia (Data Visualization with Python)]()
+### [Analyzing Wildfire Activities in Australia (Data Visualization with Python)](https://github.com/kmazou/Data-Visualization-with-Python/tree/main)
 - Part 1 Analyzing Wildfire Activities in Australia
 - Part 2 Creating Dashboards
 
 *Key Terms: Matplotlib, Seaborn, Foluim, Plotly, Dash*
 
-### [House Sales in King County, USA (Data Analysis with Python)]()
+### [House Sales in King County, USA (Data Analysis with Python)](https://github.com/kmazou/data-analysis-with-Python)
 Data Analytics for House Pricing Data Set
 
 *Key Terms:
 Understading the data, Python Packages for Data Science, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Binning, Exploratory Data Analysis, Descriptive Statistics, Chi-Square, Model Development, Pipelines*
 
-### [Analysis of Real Wolrd datasets for the city of Chicago (Databases and SQL For Data Science with Python)]()
+### [Analysis of Real Wolrd datasets for the city of Chicago (Databases and SQL For Data Science with Python)](https://github.com/kmazou/SQL-analysis-with-Python)
 Practice Querying Real World Datasets
 
 *Key Terms:
 SQL, DDL, DML, TRUNCATE, SQL Scripts, String, BD-API, SQL Magic, Tables, Columns, Stored Procedure, ACID Transactions, Rolling Back, Join operations*
 
-### [Analyzing Stock Performance and Building Dashboards (Python Project for Data Science)]()
+### [Analyzing Stock Performance and Building Dashboards (Python Project for Data Science)](https://github.com/kmazou/python-project-for-data-science)
 1. Web Scraping
 2. Project Overview
 3. Extracting Stock Data Using Python
@@ -43,7 +43,7 @@ SQL, DDL, DML, TRUNCATE, SQL Scripts, String, BD-API, SQL Magic, Tables, Columns
 
 *Key Terms: Python, Web Scraping, HTML scrapping, BeautifulSoup, IBM Cognos, IBM Waston,Jupyter Notebook*
 
-### [Financial Analyst(New York Jobs CEO COUNCIL, JOB sim on theforage.com)]()
+### [Financial Analyst(New York Jobs CEO COUNCIL, JOB sim on theforage.com)](https://github.com/kmazou/CEO-COUNCIL)
 
 1. Extract information from BigTechCompany's Financial reports using MS Excel
 Developped  a MS PowerPoint presentation of the analysis.
@@ -53,7 +53,7 @@ Developped  a MS PowerPoint presentation of the analysis.
 *Key Terms: 
 Financial statements,Revenue, Operating income (EBITDA), Net income, Free cash flow, EBITDA margin, Leverage ratios.*
 
-### [Corporate Analyst Development Program (JP MORGAN CHASE & CO,JOB sim on theforage.com)]()
+### [Corporate Analyst Development Program (JP MORGAN CHASE & CO,JOB sim on theforage.com)](https://github.com/kmazou/JP-MORGAN-CHASE-CO-CORPORATE-ANALYST-DEVELOPMENT-PROGRAM)
 
 
 1. Data Analysis and Visualization in Excel :Sorted Data, Filtered Data, Vlookup Function, Created Charts 
@@ -65,7 +65,7 @@ Financial statements,Revenue, Operating income (EBITDA), Net income, Free cash f
 *Key terms:
 Borrowers,loan-to-value ratios, minority homeowners,annual income, appraised home value*
 
-### [Data Analytics and Visualization (Accenture JOB sim on theforage.com)]()
+### [Data Analytics and Visualization (Accenture JOB sim on theforage.com)](https://github.com/kmazou/ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION)
 
 1. Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
 2. Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
