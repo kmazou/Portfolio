@@ -1,10 +1,10 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -12,30 +12,104 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-  </head>
-  <body>
+</head>
+<body>
     <div class="wrapper">
-      <header>
-        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        <header>
+            <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+            <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-       
+            {% if site.github.is_project_page %}
+                <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+            {% endif %}
+        </header>
 
-        {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <section>
+            <h1>DATA ANALYST</h1>
 
-      
-      </header>
+            <h2>ABOUT ME</h2>
+            <p>Experienced leader with 10+ years, boosting revenue by 20% and improving operational efficiency by 15%. Transitioning to data analysis, driven by passion, leverage data for informed decisions and contributing quantifiable value.</p>
 
-      <section>
-        {{ content }}
-      </section>
+            <h2>Projects</h2>
 
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
+            <h3><a href="https://github.com/kmazou/capstone/tree/main">IBM Capstone Project</a></h3>
+            <img src="assets/img/mostdesiredPlatnextyear.jpg" alt="Future Platforms Trend">
+            <ol>
+                <li>Collecting Data Using APIs and Collecting Data Using Web Scraping</li>
+                <li>Data Wrangling</li>
+                <li>Exploratory Data Analysis</li>
+                <li>Data Visualization</li>
+                <li>Dashboards</li>
+                <li>Findings Presentation</li>
+            </ol>
+            <p><em>Key Terms: Exploring Data, Duplicates, Missing Values, Normalizing data, distribution, outliers, Correlation, Python Libraries</em></p>
+
+            <h3><a href="https://github.com/kmazou/Data-Visualization-with-Python/tree/main">Analyzing Wildfire Activities in Australia (Data Visualization with Python)</a></h3>
+            <img src="assets/img/Callbacks.png" alt="Callbacks">
+            <ul>
+                <li>Part 1 Analyzing Wildfire Activities in Australia</li>
+                <li>Part 2 Creating Dashboards</li>
+            </ul>
+            <p><em>Key Terms: Matplotlib, Seaborn, Folium, Plotly, Dash</em></p>
+
+            <h3><a href="https://github.com/kmazou/data-analysis-with-Python">House Sales in King County, USA (Data Analysis with Python)</a></h3>
+            <img src="assets/img/Step2_screeshot_karim_ali.png" alt="House Sales">
+            <p>Data Analytics for House Pricing Data Set</p>
+            <p><em>Key Terms: Understanding the data, Python Packages for Data Science, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Binning, Exploratory Data Analysis, Descriptive Statistics, Chi-Square, Model Development, Pipelines</em></p>
+
+            <h3><a href="https://github.com/kmazou/SQL-analysis-with-Python">Analysis of Real World datasets for the city of Chicago (Databases and SQL For Data Science with Python)</a></h3>
+            <img src="assets/img/Scatter.png" alt="Chicago Datasets">
+            <p>Practice Querying Real World Datasets</p>
+            <p><em>Key Terms: SQL, DDL, DML, TRUNCATE, SQL Scripts, String, BD-API, SQL Magic, Tables, Columns, Stored Procedure, ACID Transactions, Rolling Back, Join operations</em></p>
+
+            <h3><a href="https://github.com/kmazou/python-project-for-data-science">Analyzing Stock Performance and Building Dashboards (Python Project for Data Science)</a></h3>
+            <img src="assets/img/YearlyReportingGraphs.png" alt="Stock Performance">
+            <ol>
+                <li>Web Scraping</li>
+                <li>Project Overview</li>
+                <li>Extracting Stock Data Using Python</li>
+                <li>Reading: yfinance Library</li>
+            </ol>
+            <p><em>Key Terms: Python, Web Scraping, HTML scrapping, BeautifulSoup, IBM Cognos, IBM Waston, Jupyter Notebook, Pandas</em></p>
+
+            <h3><a href="https://github.com/kmazou/CEO-COUNCIL">Financial Analyst (New York Jobs CEO COUNCIL, JOB sim on theforage.com)</a></h3>
+            <img src="assets/img/Line_Plot_1.png" alt="Financial Analyst">
+            <ol>
+                <li>Extract information from BigTechCompany's Financial reports using MS Excel</li>
+                <li>Developed a MS PowerPoint presentation of the analysis.</li>
+                <li>Developed a presentation outline that concisely expresses my opinions and analysis.</li>
+                <li>Recorded a video of the presentation</li>
+            </ol>
+            <p><em>Key Terms: Financial statements, Revenue, Operating income (EBITDA), Net income, Free cash flow, EBITDA margin, Leverage ratios</em></p>
+
+            <h3><a href="https://github.com/kmazou/JP-MORGAN-CHASE-CO-CORPORATE-ANALYST-DEVELOPMENT-PROGRAM">Corporate Analyst Development Program (JP MORGAN CHASE & CO, JOB sim on theforage.com)</a></h3>
+            <img src="assets/img/JPMC_process_map_Karim_Ali.jpg" alt="JPMC Process Map">
+            <ol>
+                <li>Data Analysis and Visualization in Excel: Sorted Data, Filtered Data, Vlookup Function, Created Charts</li>
+                <li>Data Visualization Dashboard (Tableau)</li>
+                <li>Process Mapping and Improvement</li>
+                <li>Storytelling with MS PowerPoint</li>
+                <li>Video Presentation</li>
+            </ol>
+            <p><em>Key terms: Borrowers, loan-to-value ratios, minority homeowners, annual income, appraised home value</em></p>
+
+            <h3><a href="https://github.com/kmazou/ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION">Data Analytics and Visualization (Accenture JOB sim on theforage.com)</a></h3>
+            <img src="assets/img/Aggregate_score.png" alt="Accenture Analytics">
+            <ol>
+                <li>Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.</li>
+                <li>Cleaned, modeled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.</li>
+                <li>Prepared a PowerPoint deck and video presentation script to communicate key insights for the client and internal stakeholders.</li>
+            </ol>
+            <p><em>Key Terms: SQL, CSV, MS Excel, PowerQuery, Communication, Data Analysis, Data Modeling, Data understanding, Data Visualization, Presentations, Project Planning, Public Speaking, Storytelling, Strategy, Teamwork</em></p>
+
+            <h4>Contact:</h4>
+            <p><em>Email: mazouali2016@gmail.com<br>Telegram: @kmazou</em></p>
+        </section>
+
+        <footer>
+            <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+        </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-  </body>
+</body>
 </html>
