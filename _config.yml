@@ -3,3 +3,5 @@ logo: "/assets/img/Karim_ali.jpg"
 description: "Data Analyst"
 # show_downloads: true
 theme: jekyll-theme-minimal
+github:
+  repository: nil
