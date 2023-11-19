@@ -1,8 +1,5 @@
-title: "Karim Ali"
-logo: "/assets/img/Karim_ali.jpg"
-description: "Data Analyst"
-show_downloads: False
+title: Dinky theme
+description: Dinky is a red hot theme for GitHub Pages.
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
-github:
-  repository: nil

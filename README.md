@@ -1,83 +1,116 @@
-# DATA ANALYST
+# The Dinky theme
 
-## ABOUT ME 
-Experienced leader with 10+ years, boosting revenue by 20% and improving operational efficiency by 15%. Transitioning to data analysis, driven by passion, leverage data for informed decisions and contributing quantifiable value.
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/dinky/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/dinky/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-dinky.svg)](https://badge.fury.io/rb/jekyll-theme-dinky)
 
-## Projects 
+*Dinky is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/dinky), or even [use it today](#usage).*
 
-### [IBM Capstone Project](https://github.com/kmazou/capstone/tree/main)
-![Future Platforms Trend](assets/img/mostdesiredPlatnextyear.jpg)
-1. Collecting Data Using APIs and Collecting Data Using Wedscrapping
-2. Data Wrangling
-3. Exploratory Data Analysis
-4. Data Visualization
-5. Dashboards
-6. Findings Presentation
+![Thumbnail of Dinky](thumbnail.png)
 
-*Key Terms:
-Exploring Data, Duplicates, Missing Values, Normalizing data, distribution, outliers, Correlation, Python Libraries*
+## Usage
 
-### [Analyzing Wildfire Activities in Australia (Data Visualization with Python)](https://github.com/kmazou/Data-Visualization-with-Python/tree/main)
-![](assets/img/Callbacks.png)
-- Part 1 Analyzing Wildfire Activities in Australia
-- Part 2 Creating Dashboards
+To use the Dinky theme:
 
-*Key Terms: Matplotlib, Seaborn, Foluim, Plotly, Dash*
+1. Add the following to your site's `_config.yml`:
 
-### [House Sales in King County, USA (Data Analysis with Python)](https://github.com/kmazou/data-analysis-with-Python)
-![](assets/img/Step2_screeshot_karim_ali.png)
-Data Analytics for House Pricing Data Set
+    ```yml
+    remote_theme: pages-themes/dinky@v0.2.0
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```
 
-*Key Terms:
-Understading the data, Python Packages for Data Science, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Binning, Exploratory Data Analysis, Descriptive Statistics, Chi-Square, Model Development, Pipelines*
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-### [Analysis of Real Wolrd datasets for the city of Chicago (Databases and SQL For Data Science with Python)](https://github.com/kmazou/SQL-analysis-with-Python)
-![](assets/img/Scatter.png)
-Practice Querying Real World Datasets
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-*Key Terms:
-SQL, DDL, DML, TRUNCATE, SQL Scripts, String, BD-API, SQL Magic, Tables, Columns, Stored Procedure, ACID Transactions, Rolling Back, Join operations*
+## Customizing
 
-### [Analyzing Stock Performance and Building Dashboards (Python Project for Data Science)](https://github.com/kmazou/python-project-for-data-science)
-![](assets/img/YearlyReportingGraphs.png)
-1. Web Scraping
-2. Project Overview
-3. Extracting Stock Data Using Python
-4. Reading: yfinance Library
+### Configuration variables
 
-*Key Terms: Python, Web Scraping, HTML scrapping, BeautifulSoup, IBM Cognos, IBM Waston,Jupyter Notebook, Pandas *
+Dinky will respect the following variables, if set in your site's `_config.yml`:
 
-### [Financial Analyst(New York Jobs CEO COUNCIL, JOB sim on theforage.com)](https://github.com/kmazou/CEO-COUNCIL)
-![](assets/img/Line_Plot_1.png)
-1. Extract information from BigTechCompany's Financial reports using MS Excel
-Developped  a MS PowerPoint presentation of the analysis.
-2. Developped a presentation outline that concisely expresses my opinions and analysis.
-3. Recorded a video of the presentation
-   
-*Key Terms: 
-Financial statements,Revenue, Operating income (EBITDA), Net income, Free cash flow, EBITDA margin, Leverage ratios.*
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-### [Corporate Analyst Development Program (JP MORGAN CHASE & CO,JOB sim on theforage.com)](https://github.com/kmazou/JP-MORGAN-CHASE-CO-CORPORATE-ANALYST-DEVELOPMENT-PROGRAM)
-![](assets/img/JPMC_process_map_Karim_Ali.jpg)
+Additionally, you may choose to set the following optional variables:
 
-1. Data Analysis and Visualization in Excel :Sorted Data, Filtered Data, Vlookup Function, Created Charts 
-2. Data Visualization Dashboard (Tableau)
-3. Process Mapping and Improvement
-4. Storytelling with MS PowerPoint
-5. Video Presentation
-   
-*Key terms:
-Borrowers,loan-to-value ratios, minority homeowners,annual income, appraised home value*
+```yml
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-### [Data Analytics and Visualization (Accenture JOB sim on theforage.com)](https://github.com/kmazou/ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION)
-![](assets/img/Aggregate_score.png)
-1. Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
-2. Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
-3. Prepared a PowerPoint deck and video presentation script to communicate key insights for the client and internal stakeholders.
+### Stylesheet
 
-*Key Terms:
-SQL, CSV, MS Excel, PowerQuery, Communication, Data Analysis, Data Modeling, Data understanding, Data Visualization, Presentations, Project Planning, Public Speaking, Storytelling, Strategy, Teamwork*
+If you'd like to add your own custom styles:
 
-#### Contact:
-   *email: mazouali2016@gmail.com*
-  *Telegram: @kmazou*
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
+
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+
+### Layouts
+
+If you'd like to change the theme's HTML layout:
+
+1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/dinky/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/dinky/blob/master/_layouts/default.html).
+2. For more extensive changes, [copy the original template](https://github.com/pages-themes/dinky/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+3. Create a file called `/_layouts/default.html` in your site
+4. Paste the default layout content copied in the first step
+5. Customize the layout as you'd like
+
+### Customizing Google Analytics code
+
+Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+
+### Overriding GitHub-generated URLs
+
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+
+1. Look at [the template source](https://github.com/pages-themes/dinky/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+
+## Roadmap
+
+See the [open issues](https://github.com/pages-themes/dinky/issues) for a list of proposed features (and known issues).
+
+## Project philosophy
+
+The Dinky theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+## Contributing
+
+Interested in contributing to Dinky? We'd love your help. Dinky is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+
+### Previewing the theme locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/dinky`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+### Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
