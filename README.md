@@ -45,7 +45,7 @@ SQL, DDL, DML, TRUNCATE, SQL Scripts, String, BD-API, SQL Magic, Tables, Columns
 3. Extracting Stock Data Using Python
 4. Reading: yfinance Library
 
-*Key Terms: Python, Web Scraping, HTML scrapping, BeautifulSoup, IBM Cognos, IBM Waston,Jupyter Notebook*
+*Key Terms: Python, Web Scraping, HTML scrapping, BeautifulSoup, IBM Cognos, IBM Waston,Jupyter Notebook, Pandas *
 
 ### [Financial Analyst(New York Jobs CEO COUNCIL, JOB sim on theforage.com)](https://github.com/kmazou/CEO-COUNCIL)
 ![](assets/img/Line_Plot_1.png)
