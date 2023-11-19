@@ -1,6 +1,5 @@
-Title: Karim Ali
-logo: /assets/img/Karim_ali.jpg
-Data Analyst
-# show_downloads : True
+title: "Karim Ali"
+logo: "/assets/img/Karim_ali.jpg"
+description: "Data Analyst"
+# show_downloads: true
 theme: jekyll-theme-minimal
-
