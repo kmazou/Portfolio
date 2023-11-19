@@ -15,7 +15,7 @@ Experienced leader with 10+ years, boosting revenue by 20% and improving operati
 6. Findings Presentation
 
 *Key Terms:
-Exploring Data, Duplicates, Missing Values, Normalizing data, distribution, outliers, Correlation*
+Exploring Data, Duplicates, Missing Values, Normalizing data, distribution, outliers, Correlation, Python Libraries*
 
 ### [Analyzing Wildfire Activities in Australia (Data Visualization with Python)](https://github.com/kmazou/Data-Visualization-with-Python/tree/main)
 ![](assets/img/Callbacks.png)
